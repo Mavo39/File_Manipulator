@@ -1,24 +1,24 @@
 # File_Manipulator
 File Manipulatorは、ファイルを操作するためのPythonプログラムです。
-このプログラムはRecursionCSのプログラムの1つです。
-指定されたファイルの内容を反転、コピー、複製、または文字列を置き換える操作が可能です。
-コマンドラインから実行し、ファイルに対してさまざまな変更を加えることができます。
+-このプログラムはRecursionCSのプログラムの1つです。
+-指定されたファイルの内容を反転、コピー、複製、または文字列を置き換える操作が可能です。
+-コマンドラインから実行し、ファイルに対してさまざまな変更を加えることができます。
 
 ## 機能
 このプログラムは、以下のコマンドをサポートしています。
-・reverse: ファイルの内容を反転して新しいファイルに保存します。
-・copy: ファイルの内容をコピーして新しいファイルに保存します。
-・duplicate-contents: ファイルの内容を指定した回数複製します。
-・replace-string: ファイルの内容を、指定された文字列から別の文字列へ置き換えます。
+-・reverse: ファイルの内容を反転して新しいファイルに保存します。
+-・copy: ファイルの内容をコピーして新しいファイルに保存します。
+-・duplicate-contents: ファイルの内容を指定した回数複製します。
+-・replace-string: ファイルの内容を、指定された文字列から別の文字列へ置き換えます。
 
 ## 前提条件
 Python3.xがインストールされている必要があります。
 
 ## インストール
 1. このリポジトリをクローンします。
-　bash: git clone https://github.com/username/repository_name.git
+　-bash: git clone https://github.com/username/repository_name.git
 2. クローンしたディレクトリに移動します。
-　bash: cd repository_name
+　-bash: cd repository_name
 
 ## 使用方法
 このプログラムはコマンドラインから実行します。以下は、各コマンドです。
